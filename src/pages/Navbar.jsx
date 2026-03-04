@@ -25,7 +25,7 @@ const Navbar = () => {
         <img className="logo" src={logo} alt="" />
       </div>
       <div className="navbar-design">
-        <h2 className="destination">Destinations</h2>
+        <h2 className="destination2">Destinations</h2>
         <h2 className="hotels">Hotels</h2>
         <h2 className="flights">Flights</h2>
         <img className="decoration" src={decore} alt="background decoration" />
