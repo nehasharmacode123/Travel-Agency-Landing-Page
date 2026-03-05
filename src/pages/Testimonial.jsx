@@ -1,16 +1,14 @@
-import "./testimonial.css"
+import "./testimonial.css";
+import Group64 from "../assets/Group64.png";
 
 const Testimonial = () => {
   return (
     <div>
         <div>
             <h4>TESTIMONIALS</h4>
-            <h2>What People Say About Us.</h2>
+            <h2>What People Say <br /> About Us.</h2>
             <p>. . .</p>
-        </div>
-
-        <div>
-            
+            <img src={Group64} alt="testimonials" />
         </div>
     </div>
   )
