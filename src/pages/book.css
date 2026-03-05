@@ -16,6 +16,7 @@ html,body{
 
 .book-your-trip{
     display: flex;
+    gap: 400px;
 }
 
 .easy-fast{
@@ -33,7 +34,37 @@ html,body{
     color: #5E6282;
 }
 
+.book-trip{
+    font-family: "Volkhov", serif;
+    width: 511px;
+    height: 130px;
+    top: 2445px;
+    left: 189px;
+    position: absolute;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    color: #14183E;
+}
 
+.values{
+    width: 395px;
+    margin-top: 120px;
+    height: 289px;
+    top: 2620px;
+    margin-left: 186px;
+}
 
+.trip{
+    position: absolute;
+    width: 700px;
+    height: 800px;
+    top: 2250px;
+    margin-left: 400px;
+    border: 1px;
+    color: #84829A;
+}
 
 
