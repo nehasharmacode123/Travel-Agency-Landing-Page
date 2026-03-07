@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Space+Grotesk:wght@300..700&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Grotesk:wght@300..700&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Google Sans", sans-serif;
+}
+
+html,body, #root{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.jadoo-logo{
+    position: relative;
+}
+
+.logo{
+    position: absolute;
+    width: 114.91px;
+    height: 33.99px;
+    top: 42px;
+    left: 160px;
+
+}
+
+.navbar-design{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 140px;
+}
+
+.destination{
+    position: absolute;
+    width: 100px;
+    height: 22px;
+    top: 56px;
+    left: 780px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #212832;
+}
+
+
+.hotels{
+    position: absolute;
+    width: 51px;
+    height: 22px;
+    top: 56px;
+    left: 950px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #212832;
+}
+
+.flights{
+    position: absolute;
+    width: 53px;
+    height: 22px;
+    top: 56px;
+    left: 1050px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #212832;
+    z-index: 10;
+}
+
+.booking{
+    position: absolute;
+    width: 74px;
+    height: 22px;
+    top: 56px;
+    left: 1160px;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.login{
+    position: absolute;
+    width: 44px;
+    height: 22px;
+    top: 56px;
+    left: 1300px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #212832;
+}
+
+.sign-up{
+    position: absolute;
+    width: 102px;
+    height: 40px;
+    top: 47px;
+    left: 1390px;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 10px ;
+    border: 1px solid black;
+    color: #212832;
+    background-color: #FFF1DA;
+}
+
+.dropdown{
+    position: absolute;
+    top: 56px;
+    right: 100px;
+}
+
+.language-btn{
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+    font-weight: 400;
+    margin-right: 10px;
+    background-color: #FFF1DA;
+    top: 1px;
+}
+
+.decoration{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    background-position: center;
+    background-size: cover;
+}
+
+.girlPicture{
+    position: absolute;
+    Height: 764px;
+    width: 765px;
+    top: 105px;
+    left: 800px;
+}
+
+.plane1{
+    position: absolute;
+    width: 180px;
+    top: 161px;
+    left: 938px;
+}
+
+.plane2{
+    position: absolute;
+    width: 180px;
+    top: 210px;
+    left: 1435px;
+}
+
+.destinations h3{
+    position: absolute;
+    width: 1200.87px;
+    height: 764px;
+    color: #DF6951;
+    margin-top: 115px;
+    left: 170px;
+
+}
+
+.destinations h1{
+    position: absolute;
+    top: 200px;
+    left: 160px;
+    width: 545px;
+    height: 267px;
+    font-family: "Volkhov", serif;
+    font-weight: 700;
+    font-size: 84px;
+    line-height: 89px;
+    letter-spacing: -4%;
+    color: #181E4B;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: bold;
+    top: 260px;
+}
+
+.highlight{
+    position: absolute;
+    z-index: 2;
+}
+
+
+.brush{
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    top: 270px;
+    left: 430px;
+
+}
+
+.destinations p{
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    width: 477px;
+    height: 90px;
+    top: 470px;
+    left: 168px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: #5E6282;
+}
+
+.cta{
+    position: absolute;
+    width: 200px;
+    top: 575px;
+    left: 140px;
+    border-radius: 10px;
+}
+
+.play-button{
+    position: absolute;
+    width: 120px;
+    top: 568px;
+    left: 310px;
+}
+
+.find-out p{
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    width: 92px;
+    height: 26px;
+    top: 610px;
+    left: 420px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #686D77;
+}
+
+
+
+
