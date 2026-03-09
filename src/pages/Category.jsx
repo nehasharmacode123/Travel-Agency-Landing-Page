@@ -1,10 +1,7 @@
 import "./category.css";
-import settlelight from "../assets/settlelight.png";
-import plane from "../assets/plane.png";
-import mic from "../assets/mic.png";
-import settings from "../assets/settings.png";
-import Rectangle157 from "../assets/Rectangle157.png";
 import Group4 from "../assets/Group4.png";
+import Group48 from "../assets/Group48.png";
+
 
 const Category = () => {
   return (
@@ -15,9 +12,10 @@ const Category = () => {
             <img className="side-design-image" src={Group4} alt="side-design-image" />
         </div>
         <div className="box">
-            <img className="rectangle" src={Rectangle157} alt="rectangle157" />
-            <img className="settlelight" src={settlelight} alt="settlelight-picture" />
-            <img className="plane" src={plane} alt="plane-picture" />
+            <img className="settlelight" src={Group48} alt="settlelight-picture" />
+            <img className="plane1" src={} alt="plane-picture" />
+
+            <img className="rectangle2" src={Rectangle157} alt="rectangle157" />
             <img className="mic" src={mic} alt="mic-picture" />
             <img className="settings" src={settings} alt="settings-picture" />
         </div>

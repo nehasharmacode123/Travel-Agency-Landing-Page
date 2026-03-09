@@ -52,13 +52,12 @@ html,body, #root{
 }
 
 
-.rectangle{
+.rectangle1{
     position: absolute;
-    width: 50px;
-    height: 49px;
-    top: 1215px;
-    left: 249px;
-    border-radius: 18px 5px 10px 5px;
+    width: 80px;
+    height: 80px;
+    top: 1250px;
+    left: 150px;
     }
 
 
@@ -66,24 +65,37 @@ html,body, #root{
     position: absolute;
     top: 1186px;
     width: 130px;
-    left: 207px;
+    left: 225px;
     border-radius: 18px 5px 10px 5px;
 
 }
 
-.plane{
+.plane1{
     position: absolute;
-    top: 1100px;
+    width: 200px;
+    left: 500px;
+    top: 1160px;
+    border-radius: 18px 5px 10px 5px;
     
+}
+
+.rectangle2{
+    position: absolute;
+    width: 200px;
+    left: 500px;
+    top: 1160px;
+    border-radius: 18px 5px 10px 5px;
 }
 
 .mic{
     position: absolute;
     top: 1100px;
+    left: 1200px;
 }
 
 .settings{
     position: absolute;
     top: 1100px;
+    left: 1300px;
 }
 
