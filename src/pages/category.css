@@ -34,11 +34,56 @@ html,body, #root{
     width: 547px;
     height: 65px;
     top: 1011px;
-    left: 600px;
+    left: 630px;
     font-weight: 700;
     font-size: 50px;
     line-height: 100%;
     letter-spacing: 0%;
     text-align: center;
+    color: #14183E;
+}
+
+.side-design-image{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 950px;
+    right: 80px;
+}
+
+
+.rectangle{
+    position: absolute;
+    width: 50px;
+    height: 49px;
+    top: 1215px;
+    left: 249px;
+    border-radius: 18px 5px 10px 5px;
+    }
+
+
+.settlelight{
+    position: absolute;
+    top: 1186px;
+    width: 130px;
+    left: 207px;
+    border-radius: 18px 5px 10px 5px;
+
+}
+
+.plane{
+    position: absolute;
+    top: 1100px;
+    
+}
+
+.mic{
+    position: absolute;
+    top: 1100px;
+}
+
+.settings{
+    position: absolute;
+    top: 1100px;
 }
 
