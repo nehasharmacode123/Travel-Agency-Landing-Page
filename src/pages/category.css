@@ -64,38 +64,33 @@ html,body, #root{
 .settlelight{
     position: absolute;
     top: 1186px;
-    width: 130px;
+    width: 180px;
     left: 225px;
     border-radius: 18px 5px 10px 5px;
 
 }
 
-.plane1{
+.pl-picture{
     position: absolute;
-    width: 200px;
-    left: 500px;
-    top: 1160px;
-    border-radius: 18px 5px 10px 5px;
-    
-}
-
-.rectangle2{
-    position: absolute;
-    width: 200px;
-    left: 500px;
-    top: 1160px;
-    border-radius: 18px 5px 10px 5px;
+    top: 1155px;
+    width: 400px;
+    left: 450px;
 }
 
 .mic{
     position: absolute;
-    top: 1100px;
-    left: 1200px;
+    width: 181px;
+    height: 229px;
+    top: 1200px;
+    left: 880px;
 }
 
 .settings{
-    position: absolute;
-    top: 1100px;
-    left: 1300px;
+  position: absolute;  
+  width: 181px;
+  height: 216px;
+  top: 1200px;
+  left: 1190px;
+  border-radius: 18px 5px 10px 5px;
 }
 
