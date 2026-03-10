@@ -1,11 +1,14 @@
 import "./footer.css";
+import CompanyDesc from "../assets/CompanyDesc.png";
 
 const Footer = () => {
   return (
     <div>
-        <h1>Hwwllo</h1>
+        <div>
+            <img className="companyDesc" src={CompanyDesc} alt="Company-logo" />
+        </div>
     </div>
   )
 }
 
-export default Footer
+export default Footer;
