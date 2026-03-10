@@ -62,34 +62,44 @@ html,body{
     left: 702px;
 }
 
-.logo1{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 600px;
-    gap: 100px;
-    width: 200px;
-    
-}
 
 .axon{
     position: absolute;
+    top: 3577px;
     height: 130px;
     width: 130px;
-    left: 186px;
+    left: 250px;
 }
 
 .jetstar{
     position: absolute;
+    top: 3588px;
     width: 172.86px;
     height: 110px;
-    left: 393px;
+    left: 450px;
 }
 
-             
 .expedia{
     position: absolute;
-    width: 241px;
-    height: 162px;
-    left: 616px;
+    top: 3570px;
+    width: 150px;
+    left: 680px;
 }
+
+.quantus{
+    position: absolute;
+    width: 162px;
+    height: 32px;
+    margin-top: 755px;
+    left: 900px;
+}
+
+.fook{
+    position: absolute;
+    width: 94px;
+    height: 21px;
+    margin-top: 760px;
+    left: 1150px;
+}
+
+

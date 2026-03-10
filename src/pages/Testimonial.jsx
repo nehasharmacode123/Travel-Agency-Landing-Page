@@ -23,8 +23,8 @@ const Testimonial = () => {
               <img className="axon" src={axon} alt="axon-company-logo" />
               <img className="jetstar" src={jetstar} alt="jetstar-company-logo" />
               <img className="expedia" src={expedia} alt="expedia-company-logo" />
-              <img src={qantus} alt="qantus-company-logo" />
-              <img src={fook} alt="fook-company-logo" />
+              <img className="quantus" src={qantus} alt="qantus-company-logo" />
+              <img className="fook" src={fook} alt="fook-company-logo" />
           </div>
         </div>
     </div>
