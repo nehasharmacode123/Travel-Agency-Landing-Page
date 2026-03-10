@@ -12,25 +12,6 @@ html,body{
     width: 100%;
 }
 
-/* .rectangle-shape{
-    position: absolute;
-    width: 1170px;
-    height: 407px;
-    top: 3747px;
-    left: 170px;
-    color: #DFD7F9;
-}
-
-.circle{
-    position: absolute;
-    width: 300px;
-    top: 3978.73px;
-    left: 154.32px;
-    padding: 50px;
-    border: 1px;
-    /* transform: rotate(-90deg); */
-    /* color: #6246E5;
-} */ 
 
 .form-container{
     position: relative;
@@ -51,6 +32,15 @@ html,body{
     top: 195px;
     left: 25px;
     border: 1px;
+    filter: grayscale(100%);
+    opacity: 0.3;
+}
+
+.sideCircle{
+    position: absolute;
+    width: 250px;
+    height: 300px;
+    left: 950px;
     filter: grayscale(100%);
     opacity: 0.3;
 }
@@ -77,11 +67,29 @@ html,body{
     color: #5E6282;
 }
 
+.email-input{
+    position: relative;
+}
+
+.mail-icon{
+    position: absolute;
+    height: 18px;
+    width: 21px;
+    left: 330px;
+    top: 10px;
+    border: 1px;
+    color: #39425D;
+}
+
 .input-box input{
-    padding: 10px;
-    width: 200px;
+    padding: 10px 10px 10px 45px;
+    width: 250px;
 }
 
 .input-box button{
     padding: 10px 20px;
+}
+
+.email-input input{
+
 }
