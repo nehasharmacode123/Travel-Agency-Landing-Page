@@ -61,7 +61,56 @@ html,body{
     margin-top: 1550px;
 }
 
+.contact-information h4{
+    font-family: "Poppins", sans-serif;
+    width: 108px;
+    height: 26px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #080809;
+}
 
+.contact-information p{
+    margin-top: 12px;
+    width: 55px;
+    height: 22px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #5E6282;
+}
 
+.more-information{
+    width: 108px;
+    height: 151px;
+    margin-top: 1550px;
+}
+
+.more-information h4{
+    font-family: "Poppins", sans-serif;
+    width: 108px;
+    height: 26px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #080809;
+}
+
+.more-information p{
+    margin-top: 12px;
+    width: 100px;
+    height: 22px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #5E6282;
+}
 
 

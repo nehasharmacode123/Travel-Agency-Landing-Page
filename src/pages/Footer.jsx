@@ -24,7 +24,7 @@ const Footer = () => {
             <p>Affilates</p>
           </div>
 
-          <div>
+          <div className="more-information">
             <h4>More</h4>
             <p>Airlinefees</p>
             <p>Airline</p>
