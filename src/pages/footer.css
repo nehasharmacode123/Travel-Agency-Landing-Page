@@ -9,3 +9,16 @@ html,body{
     width: 100%;
 }
 
+.footer-page{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+      
+.companyDesc{
+    width: 200px;
+    height: 130px;
+    margin-top: 1500px;
+    margin-left: 300px;
+}
+
