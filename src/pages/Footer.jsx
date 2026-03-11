@@ -32,7 +32,7 @@ const Footer = () => {
           </div>
 
           <div className="outbound-image">
-            <img src={outbound} alt="outbound-image" />
+            <img className="outbound" src={outbound} alt="outbound-image" />
             <p>All rights reserved@jadoo.co</p>
           </div>
 

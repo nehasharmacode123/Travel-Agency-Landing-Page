@@ -22,7 +22,7 @@ html,body{
     width: 200px;
     height: 130px;
     margin-top: 1500px;
-    margin-left: 280px;
+    margin-left: 250px;
 }
 
 .page-information{
@@ -56,6 +56,7 @@ html,body{
 }
 
 .contact-information{
+    position: relative;
     width: 108px;
     height: 151px;
     margin-top: 1550px;
@@ -85,6 +86,7 @@ html,body{
 }
 
 .more-information{
+    position: relative;
     width: 108px;
     height: 151px;
     margin-top: 1550px;
@@ -114,9 +116,28 @@ html,body{
 }
 
 .outbound-image{
+    position: relative;
     width: 108px;
     height: 151px;
     margin-top: 1550px;
 }
 
+.outbound{
+    position: absolute;
+    width: 150px;
+    right: 100px;
+}
+
+.outbound-image p{
+    width: 203px;
+    height: 17px;
+    margin-top: 200px;
+    text-align: center;
+    margin-left: 616px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 125%;
+    letter-spacing: 0%;
+}
 
