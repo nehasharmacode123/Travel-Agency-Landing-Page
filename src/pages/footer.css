@@ -22,14 +22,46 @@ html,body{
     width: 200px;
     height: 130px;
     margin-top: 1500px;
-    margin-left: 300px;
+    margin-left: 280px;
 }
 
-.page-information h3{
+.page-information{
     width: 108px;
     height: 151px;
-    margin-top: 1500px;
-    left: 500px;
-
+    margin-top: 1550px;
 }
+
+.page-information h1{
+    font-family: "Poppins", sans-serif;
+    width: 108px;
+    height: 26px;
+    margin-left: 100px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #080809;
+}
+
+.page-information p{
+    margin-top: 12px;
+    width: 55px;
+    height: 22px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: 0%;
+    color: #5E6282;
+}
+
+.contact-information{
+    width: 108px;
+    height: 151px;
+    margin-top: 1550px;
+}
+
+
+
+
 

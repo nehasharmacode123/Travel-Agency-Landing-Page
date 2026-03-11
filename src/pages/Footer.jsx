@@ -17,7 +17,7 @@ const Footer = () => {
             <p>Mobile</p>
           </div>
 
-          <div>
+          <div className="contact-information">
             <h4>Contact</h4>
             <p>Help/FAQ</p>
             <p>Press</p>
