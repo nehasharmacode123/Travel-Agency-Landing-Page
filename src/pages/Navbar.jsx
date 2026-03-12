@@ -25,18 +25,18 @@ const Navbar = () => {
         <img className="logo" src={logo} alt="" />
       </div>
       <div className="navbar-design">
-        <h2 className="destination2">Destinations</h2>
-        <h2 className="hotels">Hotels</h2>
-        <h2 className="flights">Flights</h2>
-        <img className="decoration" src={decore} alt="background decoration" />
-        <img className="girlPicture" src={girl} alt="girl-picture" />
-        <img className="plane1" src={plane} alt="plane-image" />
-        <img className="plane2" src={plane} alt="plane-image" />
-        <h2 className="booking">Bookings</h2>
-        <h2 className="login">Login</h2>
-        <button className="sign-up">Sign up</button>
-
-        {/* Language Dropdown button */}
+        <div>
+            <h2 className="destination2">Destinations</h2>
+            <h2 className="hotels">Hotels</h2>
+            <h2 className="flights">Flights</h2>
+            <img className="decoration" src={decore} alt="background decoration" />
+            <img className="girlPicture" src={girl} alt="girl-picture" />
+            <img className="plane1" src={plane} alt="plane-image" />
+            <img className="plane2" src={plane} alt="plane-image" />
+            <h2 className="booking">Bookings</h2>
+            <h2 className="login">Login</h2>
+            <button className="sign-up">Sign up</button>
+        </div>
 
         <div className="dropdown">
           <button className="language-btn" onClick={() => setOpen(!open)}>

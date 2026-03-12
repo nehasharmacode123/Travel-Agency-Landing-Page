@@ -46,21 +46,22 @@ body{
     width: 100px;
     height: 22px;
     top: 56px;
-    left: 780px;
+    left: 600px;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
     letter-spacing: 0%;
     color: #212832;
+    z-index: 15;
 }
 
 
 .hotels{
     position: absolute;
-    width: 51px;
+    width: 100px;
     height: 22px;
     top: 56px;
-    left: 950px;
+    left: 750px;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -73,7 +74,7 @@ body{
     width: 53px;
     height: 22px;
     top: 56px;
-    left: 1050px;
+    left: 850px;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -87,7 +88,7 @@ body{
     width: 74px;
     height: 22px;
     top: 56px;
-    left: 1160px;
+    left: 950px;
     font-weight: 100;
     font-size: 16px;
     line-height: 100%;
@@ -99,7 +100,7 @@ body{
     width: 44px;
     height: 22px;
     top: 56px;
-    left: 1300px;
+    left: 1090px;
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
@@ -112,7 +113,7 @@ body{
     width: 102px;
     height: 40px;
     top: 47px;
-    left: 1390px;
+    left: 1200px;
     font-size: 15px;
     border-radius: 5px;
     padding: 10px ;
@@ -123,7 +124,7 @@ body{
 
 .dropdown{
     position: absolute;
-    top: 56px;
+    top: 48px;
     right: 100px;
 }
 
@@ -147,9 +148,8 @@ body{
 
 .girlPicture{
     position: absolute;
-    Height: 764px;
-    width: 765px;
-    top: 105px;
+    width: 550px;
+    top: 155px;
     left: 800px;
 }
 
@@ -157,14 +157,14 @@ body{
     position: absolute;
     width: 180px;
     top: 161px;
-    left: 938px;
+    left: 830px;
 }
 
 .plane2{
     position: absolute;
     width: 180px;
     top: 210px;
-    left: 1435px;
+    left: 1255px;
 }
 
 .destinations h3{
@@ -172,8 +172,8 @@ body{
     width: 1200.87px;
     height: 764px;
     color: #DF6951;
-    margin-top: 115px;
-    left: 170px;
+    margin-top: 135px;
+    left: 165px;
 
 }
 
