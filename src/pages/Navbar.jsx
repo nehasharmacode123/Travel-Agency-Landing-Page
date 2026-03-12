@@ -1,6 +1,5 @@
 import { useState } from "react";
 import logo from "../assets/logo.png";
-import { FaCirclePlay } from "react-icons/fa6";
 import "./navbar.css";
 import decore from "../assets/Decore.png";
 import girl from "../assets/girl.png";
