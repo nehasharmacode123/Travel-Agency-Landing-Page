@@ -19,24 +19,27 @@ html,body{
       
 .companyDesc{
     font-family: "Poppins", sans-serif;
-    width: 200px;
+    width: 180px;
     height: 130px;
     margin-top: 1500px;
     margin-left: 250px;
 }
 
 .page-information{
+    position: absolute;
     width: 108px;
     height: 151px;
     margin-top: 1550px;
+    left: 520px;
 }
 
 .page-information h1{
     font-family: "Poppins", sans-serif;
+    position: absolute;
     width: 108px;
     height: 26px;
-    margin-left: 100px;
-    font-weight: 700;
+    left: 70px;
+    font-weight: 100;
     font-size: 25px;
     line-height: 125%;
     letter-spacing: 0%;
@@ -90,6 +93,7 @@ html,body{
     width: 108px;
     height: 151px;
     margin-top: 1550px;
+    right: 200px;
 }
 
 .more-information h4{
@@ -118,26 +122,28 @@ html,body{
 .outbound-image{
     position: relative;
     width: 108px;
-    height: 151px;
-    margin-top: 1550px;
+    height: 200px;
+    margin-top: 1580px;
 }
 
 .outbound{
     position: absolute;
-    width: 150px;
-    right: 100px;
+    width: 180px;
+    right: 310px;
 }
 
 .outbound-image p{
-    width: 203px;
+    position: absolute;
+    top: 180px;
+    right: 800px;
+    width: 300px;
     height: 17px;
-    margin-top: 200px;
-    text-align: center;
-    margin-left: 616px;
+    right: 600px;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 125%;
     letter-spacing: 0%;
+    color: #5E6282;
 }
 
