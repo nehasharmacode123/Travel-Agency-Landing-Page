@@ -18,7 +18,7 @@ html,body, #root{
     top: 974px;
     width: 98px;
     height: 27px;
-    left: 50%;
+    left: 710px;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     text-align: center;
@@ -34,7 +34,7 @@ html,body, #root{
     width: 547px;
     height: 65px;
     top: 1011px;
-    left: 630px;
+    left: 500px;
     font-weight: 700;
     font-size: 50px;
     line-height: 100%;
@@ -48,7 +48,7 @@ html,body, #root{
     width: 160px;
     height: 160px;
     top: 950px;
-    right: 80px;
+    right: 60px;
 }
 
 
@@ -65,7 +65,7 @@ html,body, #root{
     position: absolute;
     top: 1186px;
     width: 180px;
-    left: 225px;
+    left: 160px;
     border-radius: 18px 5px 10px 5px;
 
 }
@@ -74,7 +74,7 @@ html,body, #root{
     position: absolute;
     top: 1155px;
     width: 400px;
-    left: 450px;
+    left: 400px;
 }
 
 .mic{
@@ -82,7 +82,7 @@ html,body, #root{
     width: 181px;
     height: 229px;
     top: 1200px;
-    left: 880px;
+    left: 850px;
 }
 
 .settings{
@@ -90,7 +90,7 @@ html,body, #root{
   width: 181px;
   height: 216px;
   top: 1200px;
-  left: 1190px;
+  left: 1140px;
   border-radius: 18px 5px 10px 5px;
 }
 

@@ -31,7 +31,7 @@ const Navbar = () => {
             <img className="decoration" src={decore} alt="background decoration" />
             <img className="girlPicture" src={girl} alt="girl-picture" />
             <img className="plane1" src={plane} alt="plane-image" />
-            <img className="plane2" src={plane} alt="plane-image" />
+            <img className="plane-2" src={plane} alt="plane-image" />
             <h2 className="booking">Bookings</h2>
             <h2 className="login">Login</h2>
             <button className="sign-up">Sign up</button>

@@ -160,11 +160,11 @@ body{
     left: 830px;
 }
 
-.plane2{
+.plane-2{
     position: absolute;
     width: 180px;
     top: 210px;
-    left: 125px;
+    left: 1260px;
 }
 
 .destinations h3{

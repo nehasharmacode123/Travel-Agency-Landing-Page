@@ -10,7 +10,6 @@ import Testimonial from "./pages/Testimonial"
 const App = () => {
   return (
     <div>
-      {/* <Nav /> */}
       <Navbar />
       <Category />
       <Destination /> 
