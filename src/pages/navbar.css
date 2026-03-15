@@ -30,7 +30,7 @@ body{
     width: 114.91px;
     height: 33.99px;
     top: 42px;
-    left: 160px;
+    left: 250px;
 
 }
 
@@ -141,7 +141,7 @@ body{
 .decoration{
     position: absolute;
     top: 1px;
-    right: 1px;
+    left: 1000px;
     background-position: center;
     background-size: cover;
 }
@@ -164,7 +164,7 @@ body{
     position: absolute;
     width: 180px;
     top: 210px;
-    left: 1260px;
+    left: 1280px;
 }
 
 .destinations h3{
